@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_margin_xxs">4dp</dimen>
+    <dimen name="dimen_margin_xs">8dp</dimen>
+    <dimen name="dimen_margin_s">12dp</dimen>
+    <dimen name="dimen_margin_m">16dp</dimen>
+    <dimen name="dimen_margin_l">20dp</dimen>
+    <dimen name="dimen_margin_xl">24dp</dimen>
+    <dimen name="dimen_margin_xxl">28dp</dimen>
+    <dimen name="dimen_margin_xxxl">32dp</dimen>
+
+    <!-- region dimens shapes -->
+    <dimen name="dimen_shape_xs">8dp</dimen>
+    <dimen name="dimen_shape_s">12dp</dimen>
+    <dimen name="dimen_shape_m">16dp</dimen>
+    <!-- endregion -->
+
+    <!-- region dimens font size -->
+    <dimen name="dimen_font_size_xs">8sp</dimen>
+    <dimen name="dimen_font_size_s">12sp</dimen>
+    <dimen name="dimen_font_size_m">16sp</dimen>
+    <dimen name="dimen_font_size_l">20sp</dimen>
+    <dimen name="dimen_font_size_xl">24sp</dimen>
+    <dimen name="dimen_font_size_xxl">28sp</dimen>
+    <!-- endregion -->
+
+    <!-- region components size -->
+    <dimen name="dimen_button_common_width_size">250dp</dimen>
+    <dimen name="dimen_button_common_height_size">50dp</dimen>
+    <!-- endregion -->
+</resources>

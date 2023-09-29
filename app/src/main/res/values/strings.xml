@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">statisticshelper</string>
+
+    <string name="home_information_text">Escolha uma opção de calculo</string>
+
+    <!-- region HomeScreen -->
+    <string name="home_top_bar_title">Começo</string>
+    <!-- endregion -->
+
+    <!-- region InputValorsScreen -->
+    <string name="input_valor_top_bar_title">Inserir valores</string>
+    <string name="input_valor_information_text">Insira os valores separados por virgula \" , \" :</string>
+    <string name="input_valor_calculate">Calcular</string>
+    <!-- endregion -->
+
+    <!--region Accessibility-->
+    <string name="accessibility_icon_menu">Menu</string>
+    <string name="accessibility_icon_back">Voltar</string>
+    <string name="accessibility_icon_history">Histórico</string>
+    <!--endregion -->
+</resources>
