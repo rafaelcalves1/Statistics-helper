@@ -25,3 +25,9 @@ fun Modifier.commonBorderForInput() = this.border(
         dimensionResource(id = R.dimen.dimen_margin_xxs)
     )
 )
+
+@Composable
+fun Modifier.commonBorderForTable() = this.border(
+    1.dp,
+    color = MaterialTheme.colorScheme.primary
+)

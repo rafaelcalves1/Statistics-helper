@@ -27,7 +27,7 @@ private val LightColorScheme = lightColorScheme(
     surface = White,
     onSurface = DarkGray,
     primary = NavyBlue,
-    onPrimary = White
+    onPrimary = BlackLight
 
     /* Other default colors to override
     background = Color(0xFFFFFBFE),
@@ -52,6 +52,7 @@ fun StatisticshelperTheme(
             val context = LocalContext.current
             if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
         }
+
         darkTheme -> DarkColorScheme
         else -> LightColorScheme
     }
