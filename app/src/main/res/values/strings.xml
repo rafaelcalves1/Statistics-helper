@@ -11,6 +11,19 @@
     <string name="input_valor_top_bar_title">Inserir valores</string>
     <string name="input_valor_information_text">Insira os valores separados por virgula \" , \" :</string>
     <string name="input_valor_calculate">Calcular</string>
+
+    <!-- Continous Data -->
+    <string name="input_valor_continous_data_number_of_variables">Quantidade de variaveis</string>
+    <string name="input_valor_continous_data_lower_limit">Limite inferior</string>
+    <string name="input_valor_continous_data_limit">Limite inferior</string>
+    <!-- endregion -->
+
+    <!-- region TableComponents -->
+    <string name="table_componenst_header_value_one">Classes</string>
+    <string name="table_componenst_header_value_two">Fi</string>
+    <string name="table_componenst_header_value_three">Xi</string>
+    <string name="table_componenst_header_value_four">Fac</string>
+    <string name="table_componenst_header_value_five">Xi.Fi</string>
     <!-- endregion -->
 
     <!--region Accessibility-->
